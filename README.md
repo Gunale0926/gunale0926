@@ -1,4 +1,4 @@
-![My blog](gunale0926.github.io)
+[My blog](gunale0926.github.io)
 
 <picture>
   <source
