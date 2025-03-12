@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/Blog-Yang%20Cao's%20Blog-blue)](https://blog.yang-cao.com/)
+[![Static Badge](https://img.shields.io/badge/Blog-Yang%20Cao's%20Blog-blue)](https://yang-cao.com/)
 
 <picture>
   <source
